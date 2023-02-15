@@ -1,0 +1,9 @@
+Package: com.cybercat.deviceinfocc
+Name: DeviceInfoCC
+Depends: com.opa334.ccsupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: cybercat
+Author: cybercat
+Section: Control Center (Modules)
